@@ -1,0 +1,17 @@
+Dataset Structure Summary
+========================
+
+File: data/raw/covidevent.dta
+Shape: 2,971 rows × 7 columns
+
+Columns:
+ 1. company_id (object)
+ 2. event_date (datetime64[ns])
+ 3. tan (float64)
+ 4. total_assets (float64)
+ 5. crossborder (int8)
+ 6. dv (float64)
+ 7. deal_value (float64)
+
+Potential Event Study Variables:
+  - event_date
